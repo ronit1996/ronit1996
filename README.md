@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Ronit
-- 👀 I am an FX TD working in the vissual effects industry, I mainly work in movies with 3d softwares.
-  I love to code with vex and automate anything possible with Python.
-- 🌱 I’m currently learning Python, vex, maths, a bit of ML too.
-- 💞️ I’m looking to collaborate on anything that I know I guess, mainly Houdini, vex, Python.
+- 👋 Hi, I’m Ron.
+- 🌱 I’m currently learning C / C++.
+- 💞️ I’m looking to collaborate on anything that I know mainly C and C++.
 - 📫 you can mail me at ronit1996@outlook.com
 
 <!---
